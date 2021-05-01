@@ -2,7 +2,8 @@
 """
 Created on Mon Apr  8 12:55:29 2019
 
-@author: Jiwitesh_Sharma
+@author: Akash Vishwakarma
+
 """
 # Importing the necessary Libraries
 from flask_cors import CORS,cross_origin
